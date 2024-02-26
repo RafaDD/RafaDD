@@ -1,4 +1,3 @@
-![a](./photo.jpg)
-
 - Hi! I'm a undergraduate student from SJTU, majoring in AI.
+- Interested in AI & DM.
 - Soulslike and metroidvania game fan.
