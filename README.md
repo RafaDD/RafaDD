@@ -1,3 +1,2 @@
 - Hi! I'm an undergraduate student from Shanghai Jiao Tong University, majoring in AI.
 - Interested in AI & DM.
-- Soulslike and Metroidvania game fan.
