@@ -2,4 +2,4 @@
 
 I'm an undergraduate student majoring in Artificial Intelligence at Shanghai Jiao Tong University.
 
-Please visit [my homepage](https://rafadd.github.io) for my publications and more.
+Please visit [Google Scholar](https://scholar.google.com/citations?user=O-xoSwUAAAAJ&hl=en) for my publications and more.
