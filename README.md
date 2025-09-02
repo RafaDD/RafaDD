@@ -6,4 +6,4 @@ I'm a Ph.D. student at The Chinese University of Hong Kong advised by [Prof. Qia
 
 Before that, I obtained my bachelor's degree in artificial intelligence from Shanghai Jiao Tong University in 2025. I was advisd by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/index.html) during my undergraduate study.
 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=O-xoSwUAAAAJ&hl=en) for my publications.
+Please visit [HomePage](https://rafadd.github.io) for my publications and more.
